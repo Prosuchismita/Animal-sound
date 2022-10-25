@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+h3{
+    color: aqua;
+}
+p{
+    color: aquamarine;
+}
+.copy_right_footer{
+    color: blueviolet;
+    font-weight: 300;
+}
